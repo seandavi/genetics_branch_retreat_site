@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetics Branch Retreat</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Genetics Branch Retreat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The P53-Induced RNA-Binding Protein ZMAT3 Is a Splicing Regulator That Inhibits the Splicing of Oncogenic CD44 Variants in Colorectal Carcinoma</title>
+      <link>http://example.com/abstract/submission-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-1/</guid>
+      <description>Bruna R. Muys, Dimitrios G. Anastasakis, Duncan Claypool, Lorinc Pongor, Xiao Ling Li, Ioannis Grammatikakis, Minxue Liu, Xiantao Wang, Kannanganattu V. Prasanth, Mirit I. Aladjem, Markus Hafner and Ashish Lal
+p53 is an intensely studied tumor suppressive transcription factor. Recent studies suggest that the RNA-binding protein (RBP) ZMAT3 is important in mediating the tumor suppressive effects of p53. Here, we globally identify ZMAT3-regulated RNAs and their binding sites at nucleotide resolution in intact colorectal cancer (CRC) cells.</description>
+    </item>
+    
+    <item>
+      <title>Increased Leukemic Epigenetic Plasticity and Pre-Treatment T-Cell Activation Predict Resistance to CD19 CAR T Cell Therapy in Pediatric Acute Lymphoblastic Leukemia</title>
+      <link>http://example.com/abstract/submission-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-2/</guid>
+      <description>Katherine E. Masih, David Milewski, Abdalla Abdelmaksoud, Hsien-Chao Chou, Berkley E. Gryder, Rebecca Gardner, Ashley L. Wilson, Serifat Adebola, Benjamin Z. Stanton, Young K. Song, Chaoyu Wang, Xinyu Wen, Zachary Rae, Allison Ruchinskas, Adam Cheuk, Grégoire Altan-Bonnet, Michael Kelly, Jun S. Wei, Michael C. Jensen, Rimas J. Orentas, and Javed Khan
+Background Acute lymphoblastic leukemia (ALL) is the most common childhood cancer with a peak incidence between 3-5 years of age.</description>
+    </item>
+    
+    <item>
+      <title>Immunogenomic Approaches to Optimize Immunotherapeutic Targeting of Neuroblastoma</title>
+      <link>http://example.com/abstract/submission-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-3/</guid>
+      <description>Meijie Tian, Adam Tai-Chi Cheuk, Jun S. Wei, Young K. Song, Abdalla Abdelmaksoud, Sivasish Sindiri, Nan Li, Christopher M. Dower, Haiying Qin, Mitchell Ho, Bradley St Croix, and Javed Khan
+Background: Neuroblastoma (NB) is the most common extra-cranial solid cancer in children. Although multimodal therapies with differentiating agents and immunotherapy with anti-GD2 antibody and GM-CSF have shown promising results, it remains deadly in approximately 50% of patients with high-risk disease. Chimeric antigen receptor T-cell therapies (CAR-T) have been found to be effective in treating refractory and relapsed leukemia and lymphoma, and two of them have been recently approved by the FDA.</description>
+    </item>
+    
+    <item>
+      <title>Genomic Heterogeneity and Clonal Dynamics of the Evolution of Treatment Resistance and Metastatic Progression in Rectal Cancer</title>
+      <link>http://example.com/abstract/submission-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-4/</guid>
+      <description>Daniela Hirsch, Judith Lieberich, Kerstin Heselmeyer-Haddad, Yonca Ceribas, Michael Kelly, Keyur Talsania, Yongmei Zhao, Timo Gaiser, Thomas Ried
+The standard treatment for locally advanced rectal cancer is chemoradiotherapy followed by surgery. However, patient response to pre-operative chemoradiotherapy is highly heterogeneous, ranging from complete tumor regression to no response. Over the course of disease, up to 40% of patients suffer from local relapse or the development of metachronous metastatic disease, compromising survival.</description>
+    </item>
+    
+    <item>
+      <title>Self-Renewal of Committed Hematopoietic Precursors Leads to Abnormal Hematopoiesis and Myelodysplastic Syndrome </title>
+      <link>http://example.com/abstract/submission-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-5/</guid>
+      <description>Yang Jo Chung, Ryan Bertoli, and Peter D. Aplan
+The ineffective hematopoiesis that is characteristic of myelodysplastic syndrome (MDS) suggests the presence of defective hematopoietic stem and progenitor cells (HSPC). NUP98-HOXD13 (NHD13) transgenic mice recapitulate many features of human MDS such as ineffective hematopoiesis, peripheral blood cytopenias, dysplasia, and transformation to acute myeloid leukemia (AML), and have been used as a pre-clinical model for human MDS. NHD13 mice universally develop signs of MDS (e.</description>
+    </item>
+    
+    <item>
+      <title>R-Loops at Centromeric Chromatin Contribute to Defects in Kinetochore Integrity and Chromosomal Instability</title>
+      <link>http://example.com/abstract/submission-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-6/</guid>
+      <description>Prashant K. Mishra, Arijita Chakraborty, Elaine Yeh, Wenyi Feng, Kerry S. Bloom and Munira A. Basrai
+R-loops, the by-product of DNA-RNA hybridization and the displaced single stranded DNA, have been identified across the domains of life. The persistent presence of R-loops contributes to defects in DNA replication and repair, gene expression, and genomic integrity. R-loops have not been detected at centromeric (CEN) chromatin in wild-type budding yeast and its physiological significance in chromosome segregation remains unexplored.</description>
+    </item>
+    
+    <item>
+      <title>Determination of the Contribution of EWSR1 to the Phenotype of Ewing Sarcoma Cells via a CRISPR-Mediated Tagging Strategy </title>
+      <link>http://example.com/abstract/submission-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-7/</guid>
+      <description>Soumya Sundara Rajan, Katelyn R. Ludwig, Javed Khan, Raj Chari, Natasha J. Caplen.
+A sub-set of chromosomal rearrangements result in the expression of chimeric proteins that facilitate malignant transformation. Ewing sarcoma (EWS) is one such cancer, where a chromosomal translocation results in the expression of a chimeric protein. This fusion oncoprotein consists of the N-terminus of the RNA-binding protein EWSR1 and the C-terminus of a member of the ETS transcription family, in most cases, FLI1.</description>
+    </item>
+    
+    <item>
+      <title>Combined Immunogenomic and Immunopeptidomic Analyses Identified Biologically Relevant Immune Signatures and Novel Immunotherapy Targets in Osteosarcoma</title>
+      <link>http://example.com/abstract/submission-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-8/</guid>
+      <description>David Milewski, Jun S. Wei, Sivasish Sindiri, Andrew Brohl, Young Song, Xinyu Wen, Andy Qi, Udayan Guha, and Javed Khan.
+Background: Osteosarcoma is an aggressive bone tumor that is one of the leading causes of cancer-related death in the pediatric population. Several phase I clinical trials have reported occasional clinical responses to immune checkpoint inhibitors in osteosarcoma patients. The key feature of immunotherapy involves T cell recognition of peptides from abnormal proteins (tumor-associated antigens; TAAs) presented by MHC class I of tumor cells which stimulates specific anti-tumor cytotoxicity.</description>
+    </item>
+    
+    <item>
+      <title>Genetic Counseling Strategies for Patients With a Germline Variant Downgraded to Uncertain Significance, Likely Benign or Benign Following Risk-Reducing Surgery</title>
+      <link>http://example.com/abstract/submission-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-9/</guid>
+      <description>Yi Liu, Grace-Ann Fasaye, Chimene Kesserwan, Kathleen Calzone
+Genetic variant interpretation is an evolving process dependent on the collective evidence at that moment of time. Also, it is based on the pipeline and expertise used in each laboratory despite the adoption of ACMG guidelines for sequence variant interpretation and centralized resources such as ClinVar. Thus, there is discordance in variant interpretation between laboratories. Health providers (HP) are challenged when counseling patients post risk-reducing surgery with a genetic variant downgraded from likely pathogenic to variant uncertain significance, benign or likely benign.</description>
+    </item>
+    
+    <item>
+      <title>Prospective CfDNA Screening for Patient Recruitment of HPV-Targeted TCR Cancer Therapy Clinical Trial</title>
+      <link>http://example.com/abstract/submission-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-10/</guid>
+      <description>Zhigang Kang, Nisha Nagarsheth, Christian Hinrichs and Liang Cao
+In a retrospective study, we previously demonstrated that HPV ctDNA could be used as a noninvasive marker for tumor HPV genotyping and disease monitoring. To explore the clinical value of HPV ctDNA for companion diagnosis, we prospectively collected plasma samples from HPV associated cancer patients and tested in two independent laboratories for both genotyping and quantitation of HPV 16 and HPV18 ctDNA.</description>
+    </item>
+    
+    <item>
+      <title>A Small Protein Encoded by a Putative LncRNA Regulates Apoptosis and Tumorigenicity in Human Colorectal Cancer Cells </title>
+      <link>http://example.com/abstract/submission-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-11/</guid>
+      <description>Xiao Ling Li, Lorinc Pongor, Wei Tang, Sudipto Das, Bruna R. Muys, Matthew F. Jones, Sarah B. Lazar, Emily A. Dangelmaier, Corrine C. R. Hartford, Ioannis Grammatikakis, Qinyu Hao, Qinyu Sun, Aaron Schetter, Jennifer L. Martindale, BinWu Tang, Lisa M. Jenkins, Ana I. Robles, Robert L. Walker, Stefan Ambs, Raj Chari, Svetlana A.Shabalina, Myriam Gorospe, Perwez S. Hussain, Curtis C. Harris, Paul S. Meltzer, Kannanganattu V. Prasanth, Mirit I. Aladjem, Thorkell Andresson, and Ashish Lal*</description>
+    </item>
+    
+    <item>
+      <title>A Circular RNA From the MDM2 Locus Controls Cell Cycle Progression by Suppressing P53 Levels</title>
+      <link>http://example.com/abstract/submission-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-12/</guid>
+      <description>Ritu Chaudhary, Bruna R. Muys, Ioannis Grammatikakis, Supriyo De, Kotb Abdelmohsen, Xiao Ling Li, Yuelin Zhu, Swapna Vidhur Daulatabad, Dimitrios Tsitsipatis, Paul S. Meltzer, Myriam Gorospe, Sarath Chandra Janga, Ashish Lal
+Circular RNAs (circRNAs) are a class of noncoding RNAs produced by a noncanonical form of alternative splicing called back-splicing. To investigate a potential role of circRNAs in the p53 pathway, we analyzed RNA sequencing (RNA-seq) data from colorectal cancer cell lines (HCT116, RKO, and SW48) that were untreated or treated with a DNA-damaging agent.</description>
+    </item>
+    
+    <item>
+      <title>Identification of a First-in-Class KDM3B Inhibitor That Suppresses PAX3-FOXO1 Oncogene Activity in Fusion Positive Rhabdomyosarcoma</title>
+      <link>http://example.com/abstract/submission-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-13/</guid>
+      <description>Yong Yean Kim, Robert Hawley, Berkley Gryder, Silvia Pomella, Josh Kowalczyk, Ranu Sinniah, Young Song, and Javed Khan
+BACKGROUND: The PAX3/7-FOXO1 fusion gene is the major oncogenic driver in fusion positive rhabdomyosarcoma (FP-RMS), which is a highly aggressive soft tissue muscle sarcoma of childhood. The chimeric gene results from either t(2;13) or t(1;13) translocation and has been shown by our group to drive FP-RMS oncogenesis through transcription activation driven by super enhancers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.com/abstract/submission-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

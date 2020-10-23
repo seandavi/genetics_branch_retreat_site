@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Aplan on Genetics Branch Retreat</title>
+    <link>http://example.com/tags/peter-aplan/</link>
+    <description>Recent content in Peter Aplan on Genetics Branch Retreat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/tags/peter-aplan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self-Renewal of Committed Hematopoietic Precursors Leads to Abnormal Hematopoiesis and Myelodysplastic Syndrome </title>
+      <link>http://example.com/abstract/submission-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/abstract/submission-5/</guid>
+      <description>Yang Jo Chung, Ryan Bertoli, and Peter D. Aplan
+The ineffective hematopoiesis that is characteristic of myelodysplastic syndrome (MDS) suggests the presence of defective hematopoietic stem and progenitor cells (HSPC). NUP98-HOXD13 (NHD13) transgenic mice recapitulate many features of human MDS such as ineffective hematopoiesis, peripheral blood cytopenias, dysplasia, and transformation to acute myeloid leukemia (AML), and have been used as a pre-clinical model for human MDS. NHD13 mice universally develop signs of MDS (e.</description>
+    </item>
+    
+  </channel>
+</rss>

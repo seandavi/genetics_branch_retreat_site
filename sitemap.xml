@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/abstract/submission-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-6/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-7/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-8/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-9/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-10/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-11/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-12/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-13/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/submission-14/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/abstract/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/ashish-lal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/javed-khan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/liang-cao/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/munira-basrai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/natasha-caplen/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/other/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/peter-aplan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/thomas-ried/</loc>
+  </url>
+  
+</urlset>
