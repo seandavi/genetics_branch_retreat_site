@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://seandavi.github.io/genetics_branch_retreat_site/"
 languageCode = "en-us"
 title = "Genetics Branch Retreat"
 theme = "minimal"
