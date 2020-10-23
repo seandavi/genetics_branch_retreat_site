@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Ried on Genetics Branch Retreat</title>
-    <link>http://example.com/tags/thomas-ried/</link>
+    <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/thomas-ried/</link>
     <description>Recent content in Thomas Ried on Genetics Branch Retreat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/tags/thomas-ried/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seandavi.github.io/genetics_branch_retreat_site/tags/thomas-ried/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Genomic Heterogeneity and Clonal Dynamics of the Evolution of Treatment Resistance and Metastatic Progression in Rectal Cancer</title>
-      <link>http://example.com/abstract/submission-4/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/abstract/submission-4/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</guid>
       <description>Daniela Hirsch, Judith Lieberich, Kerstin Heselmeyer-Haddad, Yonca Ceribas, Michael Kelly, Keyur Talsania, Yongmei Zhao, Timo Gaiser, Thomas Ried
 The standard treatment for locally advanced rectal cancer is chemoradiotherapy followed by surgery. However, patient response to pre-operative chemoradiotherapy is highly heterogeneous, ranging from complete tumor regression to no response. Over the course of disease, up to 40% of patients suffer from local relapse or the development of metachronous metastatic disease, compromising survival.</description>
     </item>

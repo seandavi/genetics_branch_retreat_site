@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natasha Caplen on Genetics Branch Retreat</title>
-    <link>http://example.com/tags/natasha-caplen/</link>
+    <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/natasha-caplen/</link>
     <description>Recent content in Natasha Caplen on Genetics Branch Retreat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/tags/natasha-caplen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seandavi.github.io/genetics_branch_retreat_site/tags/natasha-caplen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Determination of the Contribution of EWSR1 to the Phenotype of Ewing Sarcoma Cells via a CRISPR-Mediated Tagging Strategy </title>
-      <link>http://example.com/abstract/submission-7/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/abstract/submission-7/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</guid>
       <description>Soumya Sundara Rajan, Katelyn R. Ludwig, Javed Khan, Raj Chari, Natasha J. Caplen.
 A sub-set of chromosomal rearrangements result in the expression of chimeric proteins that facilitate malignant transformation. Ewing sarcoma (EWS) is one such cancer, where a chromosomal translocation results in the expression of a chimeric protein. This fusion oncoprotein consists of the N-terminus of the RNA-binding protein EWSR1 and the C-terminus of a member of the ETS transcription family, in most cases, FLI1.</description>
     </item>
