@@ -9,18 +9,34 @@
 
 
 ---
-title: "Genetic Counseling Strategies for Patients With a Germline Variant Downgraded to Uncertain Significance, Likely Benign or Benign Following Risk-Reducing Surgery"
-tags: ["Other"]
+title: "R-Loops at Centromeric Chromatin Contribute to Defects in Kinetochore Integrity and Chromosomal Instability"
+tags: ["Munira Basrai"]
 weight: 9
+author: Prashant K. Mishra
+length: Long           
 ---
 
-Yi Liu, Grace-Ann Fasaye, Chimene Kesserwan, Kathleen Calzone
+Prashant K. Mishra, Arijita Chakraborty, Elaine Yeh, Wenyi Feng, Kerry S. Bloom and Munira A. Basrai
 
-Genetic variant interpretation is an evolving process dependent on the collective evidence at that moment of time. Also, it is based on the pipeline and expertise used in each laboratory despite the adoption of ACMG guidelines for sequence variant interpretation and centralized resources such as ClinVar. Thus, there is discordance in variant interpretation between laboratories. Health providers (HP) are challenged when counseling patients post risk-reducing surgery with a genetic variant downgraded from likely pathogenic to variant uncertain significance, benign or likely benign. HP’s main goal for genetic counseling is to help the patient understand and adapt to the medical, psychological and family implications of the downgraded genetic variant contributing to disease and disease risk. Two counseling models can be effectively used in these difficult sessions. One is the psycho-educational model, which uses education and psychological counseling to facilitate the patient’s ability to adapt to the updated genetic information to minimize the psychological distress and increase the personal control. The second is the reciprocal engagement model which uses the genetic information as the mechanism to open up the conversation, build a relationship, support autonomy, believe patient’s resiliency, and promote shared decision-making. Tangible steps to integrate in a session are: communicate the genetic information instead of didactic teaching; assess patient’s understanding of the updated variant classification; identify the patient’s main concern based on the re-classified variant, identify the original motive for the risk-reducing surgery (patients have their own story, which comprises his/her culture background, beliefs and values); re-check understanding periodically and solicit questions they have; use language that the patient understands; develop a helping relationship by exploring their perspective; promote patient autonomy and shared decision making by applying respect, genuineness, and empathy counseling skills. In conclusion, a psycho-educational and patient engaged counseling method will be useful for a health provider to utilize in a challenging downgraded genetic variant session.
+- Submitter: Prashant K. Mishra (Staff scientist, staff clinician)
+- email: mishrap@mail.nih.gov
+                  
+R-loops, the by-product of DNA-RNA hybridization and the displaced single stranded DNA, have been identified across the domains of life. The persistent presence of R-loops contributes to defects in DNA replication and repair, gene expression, and genomic integrity. R-loops have not been detected at centromeric (CEN) chromatin in wild-type budding yeast and its physiological significance in chromosome segregation remains unexplored. Here we used an R-loops accumulating hpr1∆ strain to investigate the consequences of R-loops at CEN chromatin and chromosome segregation. We show that Hpr1 interacts with CEN-specific histone H3 variant, Cse4 (CENP-A in humans), and prevents the accumulation of R-loops at CEN chromatin for chromosomal stability. DNA-RNA immunoprecipitation analysis showed an accumulation of R-loops at CEN chromatin in hpr1∆ strains, which was reduced by overexpression of RNH1. Increased levels of ssDNA, reduced levels of Cse4 and its assembly factor Scm3 (HJURP), and mis-localization of histone H3 at CEN chromatin were observed in hpr1∆ strains. Accumulation of R-loops at CEN chromatin contributes to defects in kinetochore biorientation and chromosomal instability (CIN), and these phenotypes were suppressed by RNH1 overexpression. In summary, our studies provide mechanistic insights into how accumulation of R-loops at CEN contributes to kinetochore dysfunction and CIN.
 
-- Submitter: Yi Liu (Research nurse, genetic counselor)
-- Supervisor: Other
-- email: yi.liu2@nih.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

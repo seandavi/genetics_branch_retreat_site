@@ -3,24 +3,34 @@
 
 
 ---
-title: "Immunogenomic Approaches to Optimize Immunotherapeutic Targeting of Neuroblastoma"
-tags: ["Javed Khan"]
+title: "A Circular RNA From the MDM2 Locus Controls Cell Cycle Progression by Suppressing P53 Levels"
+tags: ["Ashish Lal"]
 weight: 3
+author: Ioannis Grammatikakis
+length: Short           
 ---
 
-Meijie Tian, Adam Tai-Chi Cheuk, Jun S. Wei, Young K. Song, Abdalla Abdelmaksoud, Sivasish Sindiri, Nan Li, Christopher M. Dower, Haiying Qin, Mitchell Ho, Bradley St Croix, and Javed Khan
+Ritu Chaudhary, Bruna R. Muys, Ioannis Grammatikakis, Supriyo De, Kotb Abdelmohsen, Xiao Ling Li, Yuelin Zhu, Swapna Vidhur Daulatabad, Dimitrios Tsitsipatis, Paul S. Meltzer, Myriam Gorospe, Sarath Chandra Janga, Ashish Lal
 
-Background:
-Neuroblastoma (NB) is the most common extra-cranial solid cancer in children. Although multimodal therapies with differentiating agents and immunotherapy with anti-GD2 antibody and GM-CSF have shown promising results, it remains deadly in approximately 50% of patients with high-risk disease. Chimeric antigen receptor T-cell therapies (CAR-T) have been found to be effective in treating refractory and relapsed leukemia and lymphoma, and two of them have been recently approved by the FDA. However, current CARs frequently lose efficacy due to T cell exhaustion and CARs against solid tumor antigens often lack enough specificity due to a low incidence of somatic mutations resulting in a paucity of tumor neoantigens. There have not been effective CAR-T therapies against other solid cancers to date although many clinical trials are underway. We previously identified 2 cell surface cancer-associated antigens, GPC2 (Glypican-2) and CD276 (B7-H3), both highly expressed in NB tumor cells but expressed at low or undetectable levels in normal tissues. Here we attempt to develop a high throughput way of identifying optimal CART cell binders that show activation and expansion in the presence of GPC2 and CD276, but lack of exhaustion.
-Methods:
-Binders targeting GPC2 or CD276 were cloned into CAR lentiviral constructs and then were separately transduced into T cells to develop CAR-T cells. Then we analyzed cytotoxicity of these CART cells individually. To identify the most effective GPC2 or CD276-specific targeting CAR-T cells, we utilized a combined single cell proteomics and transcriptomics method approach. All CAR-T cells were pooled and co-cultured with CD276/GPC2-expressing NB cancer cells (target cells) for 24 hr. Co-cultured CAR-T cells were examined for their activation, exhaustion, cytotoxicity state and distinguished different cell types by staining with CITE-seq (Cellular Indexing of Transcriptomes and Epitopes by Sequencing) antibodies, and molecularly barcoded using 10X Genomics platform for single cell RNA-sequencing (scRNA-seq), combined with PacBio sequencing is used for identifying CAR binder inserts. We also used ddPCR method to quantify which CARTs expands over time.
-Conclusions and Future Directions:
-We attempted to test the efficacy of CAR-T cells using 14 established and novel binders against GPC2 or CD276. According to cytotoxicity assay of these 14 CART cells, we found CT3 was the most effective GPC2 targeting CART cells but majority of CD276 CART cells showed high cytolytic activity in vitro. Combined with the ddPCR results, we determined that one CART construct targeting GPC2 (CT3) and three targeting CD276 (MGB7H3LH, h8H9HL and h8H9LH) expanded when co-cultured with NB cells over time. Using the CITE-seq and RNA-seq analyses, we identified which of the CARs had an activated T cell signatures but lack exhaustion markers. 
-We next chose top candidate binders for each antigen and developed them into “OR” CARs in a Bicistronic format to maximize the efficacy. This OR CAR-T cells can bind with GPC2 and CD276 protein and showed cytolytic ability and were able to induce higher amounts of cytokines when co-cultured with either GPC2 OR CD276 expressing cells in vitro. We also validated this OR CAR-T cells efficacy in vivo through a 1:1 mixed NALM6-GPC2 and NALM6-CD276 metastasis model. We found only OR CAR-T cells can eliminate the tumor cells in mice and this OR CAR-T cells which expands more than single CART cells,   whilst expressing less exhaustion markers. Thus, this Bicistronic OR CAR-T cells not only optimizes the efficacy of CART cells for solid tumor, but also overcome the issue of heterogeneity of targets expression on different NB cell lines. Therefore, we developed a high throughput method to identify high affinity functional binders against tumor cell surface antigens using a novel immunogenomics approach and describe a potent GPC2 OR CD276 CAR against neuroblastoma. 
+- Submitter: Ioannis Grammatikakis (Staff scientist, staff clinician)
+- email: yannis.grammatikakis@nih.gov
+                  
+Circular RNAs (circRNAs) are a class of noncoding RNAs produced by a noncanonical form of alternative splicing called back-splicing. To investigate a potential role of circRNAs in the p53 pathway, we analyzed RNA sequencing (RNA-seq) data from colorectal cancer cell lines (HCT116, RKO, and SW48) that were untreated or treated with a DNA-damaging agent. Surprisingly, unlike the strong p53-dependent induction of hundreds of p53-induced mRNAs upon DNA damage, only a few circRNAs were upregulated from p53-induced genes. circ-MDM2, an annotated circRNA from the MDM2 locus, was one of the handful of circRNAs that originated from a p53-induced gene. Given the central role of MDM2 in suppressing p53 protein levels and p53 activity, we investigated the function of circ-MDM2. Knocking down circ-MDM2 with small interfering RNAs (siRNAs) that targeted circ-MDM2 did not alter MDM2 mRNA or MDM2 protein levels but resulted in increased basal p53 levels and growth defects in vitro and in vivo. Consistent with these results, transcriptome profiling showed increased expression of several direct p53 targets, reduced retinoblastoma protein (Rb) phosphorylation, and defects in G1-S progression upon silencing circ-MDM2. Our results on the initial characterization of circ-MDM2 identify a new player from the MDM2 locus that suppresses p53 levels and cell cycle progression.
 
-- Submitter: Meijie Tian (Postdoc or fellow)
-- Supervisor: Javed Khan
-- email: meijie.tian@nih.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

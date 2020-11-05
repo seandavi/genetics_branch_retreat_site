@@ -12,18 +12,38 @@
 
 
 ---
-title: "A Circular RNA From the MDM2 Locus Controls Cell Cycle Progression by Suppressing P53 Levels"
-tags: ["Ashish Lal"]
+title: "The RNA and Protein Determinates Governing the HNRNPH1-Dependent Inclusion or Exclusion of EWSR1 Exon 8"
+tags: ["Natasha Caplen"]
 weight: 12
+author: Katherine Hall
+length: Short           
 ---
 
-Ritu Chaudhary, Bruna R. Muys, Ioannis Grammatikakis, Supriyo De, Kotb Abdelmohsen, Xiao Ling Li, Yuelin Zhu, Swapna Vidhur Daulatabad, Dimitrios Tsitsipatis, Paul S. Meltzer, Myriam Gorospe, Sarath Chandra Janga, Ashish Lal
+Katherine Hall, Tayvia Brownmiller, Tam Vo, Mayank Tandon, Alexei Lobanov, Katelyn Ludwig, Tamara L. Jones, Carla Neckles, Natasha J. Caplen
 
-Circular RNAs (circRNAs) are a class of noncoding RNAs produced by a noncanonical form of alternative splicing called back-splicing. To investigate a potential role of circRNAs in the p53 pathway, we analyzed RNA sequencing (RNA-seq) data from colorectal cancer cell lines (HCT116, RKO, and SW48) that were untreated or treated with a DNA-damaging agent. Surprisingly, unlike the strong p53-dependent induction of hundreds of p53-induced mRNAs upon DNA damage, only a few circRNAs were upregulated from p53-induced genes. circ-MDM2, an annotated circRNA from the MDM2 locus, was one of the handful of circRNAs that originated from a p53-induced gene. Given the central role of MDM2 in suppressing p53 protein levels and p53 activity, we investigated the function of circ-MDM2. Knocking down circ-MDM2 with small interfering RNAs (siRNAs) that targeted circ-MDM2 did not alter MDM2 mRNA or MDM2 protein levels but resulted in increased basal p53 levels and growth defects in vitro and in vivo. Consistent with these results, transcriptome profiling showed increased expression of several direct p53 targets, reduced retinoblastoma protein (Rb) phosphorylation, and defects in G1-S progression upon silencing circ-MDM2. Our results on the initial characterization of circ-MDM2 identify a new player from the MDM2 locus that suppresses p53 levels and cell cycle progression.
+- Submitter: Katherine Hall (Student or postbac)
+- email: hallkl@nih.gov
+                  
+About 85% of Ewing sarcomas (EWS) harbor a translocation that fuses a portion of the EWSR1 gene (promoter through either part of introns 7 or 8) to the 3' end of the FLI1 gene (parts of either introns 5 or 6 through exon 9 and the 3' untranslated region). This fusion oncogene, termed EWS-FLI1, expresses the oncoprotein EWS-FLI1 that promotes EWS tumorigenesis. In about a third of EWS-FLI1-driven tumors, the breakpoint in the EWSR1 gene occurs within intron 8. In these tumors, the expression of the protein-encoding fusion transcript requires exclusion of EWSR1-exon 8. We have shown HNRNPH1 mediates the splicing event that excludes EWSR1-exon 8 from the EWS-FLI1 pre-mRNA expressed in this subset of EWS. There are over twenty reported EWSR1 transcript variants, several of which are protein-encoding. The dominant EWSR1 isoform – EWSR1-207 – has 17 exons, including exon 8, but two rare variants involve splicing events centered on EWSR1-exon 8, one that skips EWSR1-exon 8 and 9 (EWSR1-222) and one that makes use of internal splice sites with Exon 8 and Exon 11 (EWSR1-201). Our previous studies have demonstrated HNRNPH1 can bind G-rich sequences at the 3' end of EWSR1-exon 8 flanking the internal splice site and that in vitro, in the presence of monovalent cations, these sequences can form stable G-quadruplex structures. We are investigating the RNA and protein determinates of EWSR1-exon 8 exclusion during EWS-FLI1 mRNA biogenesis, its retention in the context of the dominant full-length EWSR1 transcript expressed from the unaffected EWSR1 allele, and whether HNRNPH1 functions in regulating the alternative splicing of EWSR1.
 
-- Submitter: Ioannis Grammatikakis (Staff scientist, staff clinician)
-- Supervisor: Ashish Lal
-- email: yannis.grammatikakis@nih.gov
+Our studies are employing complementary molecular, biochemical, and biophysical methods. For example, we are using long-read RNA-seq to assess an individual gene’s transcript architecture following the silencing of HNRNPH1. Our preliminary analysis using samples generated from TC-32 cells (an EWS cell line that harbors an EWSR1-intron 8 breakpoint) indicates that the only effect of HNRNPH1 silencing on EWS-FLI1 processing is the inclusion of EWSR1-exon 8. We are currently assessing the same data to determine whether the depletion of HNRNPH1 alters the splicing of the EWSR1 pre-mRNA. Our biochemical studies include analysis of HNRNPH1's binding of the G-rich regions located at the 3' end of EWSR1-exon 8. Using RNA oligomers corresponding to one of these G-rich regions and lysates harvested from TC-32 cells and an HNRNPH1 antibody, we observed that HNRNPH1 binds the wild-type sequence but not mutant sequences. Using RNA-IP and mass spectrometry, we have also identified candidate proteins, including several RNA helicases, that may contribute to the inclusion or exclusion of EWSR1-exon 8, and we are currently validating these results using a variety of biochemical and biophysical assays. Collectively, our studies will elucidate the determinants of the alternative splicing of EWSR1-exon 8 and enhance our understanding of the function of HNRNPH1 in RNA processing.
+
+Acknowledgment: We thank the CCR-Sequencing Facility PacBio and Bioinformatics Groups, and the NHLBI Biophysics Core Facility for their assistance with this project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

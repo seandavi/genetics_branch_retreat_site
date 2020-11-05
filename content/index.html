@@ -1,0 +1,14 @@
+<section>
+  {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+    {{ if eq "tags" $taxonomyname }}
+      {{ range $key, $value := $taxonomy }}
+        <div>{{ $key }}</div>
+        <ul>
+        {{ range $value.Pages }}
+          <li>{{ .Date }} {{ .Title }}</li>
+        {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</section>

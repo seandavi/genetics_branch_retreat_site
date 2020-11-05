@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+
+<main>
+
+    <h2>PI List</h2>
+    {{ range .Pages }}
+
+    <div>
+    <h4><a href="{{ .RelPermalink }}">{{ .Title  }}</a></h4>
+    </div>
+
+    {{ end }}
+</main>
+
+{{ partial "paginator" . }}
+{{ partial "footer" . }}

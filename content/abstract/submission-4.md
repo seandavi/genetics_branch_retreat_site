@@ -4,22 +4,45 @@
 
 
 ---
-title: "Genomic Heterogeneity and Clonal Dynamics of the Evolution of Treatment Resistance and Metastatic Progression in Rectal Cancer"
-tags: ["Thomas Ried"]
+title: "Increased Leukemic Epigenetic Plasticity and Pre-Treatment T-Cell Activation Predict Resistance to CD19 CAR T Cell Therapy in Pediatric Acute Lymphoblastic Leukemia"
+tags: ["Javed Khan"]
 weight: 4
+author: Katherine E. Masih
+length: Short           
 ---
 
-Daniela Hirsch, Judith Lieberich, Kerstin Heselmeyer-Haddad, Yonca Ceribas, Michael Kelly, Keyur Talsania, Yongmei Zhao, Timo Gaiser, Thomas Ried
+Katherine E. Masih, David Milewski, Abdalla Abdelmaksoud, Hsien-Chao Chou, Berkley E. Gryder, Rebecca Gardner, Ashley L. Wilson, Serifat Adebola,  Benjamin Z. Stanton, Young K. Song, Chaoyu Wang, Xinyu Wen, Zachary Rae, Allison Ruchinskas, Adam Cheuk, Grégoire Altan-Bonnet, Michael Kelly, Jun S. Wei, Michael C. Jensen, Rimas J. Orentas, and Javed Khan
 
-The standard treatment for locally advanced rectal cancer is chemoradiotherapy followed by surgery. However, patient response to pre-operative chemoradiotherapy is highly heterogeneous, ranging from complete tumor regression to no response. Over the course of disease, up to 40% of patients suffer from local relapse or the development of metachronous metastatic disease, compromising survival. It is not yet known how treatment resistance and disease progression in these patients evolve – whether from the selective outgrowth of pre-existing resistant clones during treatment or through the acquisition of additional, resistance conferring genomic alterations. 
-We aim to delineate the genomic evolution and clonal architecture underlying treatment resistance and metastatic progression in rectal cancer based on a cohort of 42 patients, from which 98 tumor samples were collected longitudinally over the course of treatment and metastatic progression. Tumor diagnosis and treatment response assessment are routinely based on the histopathologic evaluation of formalin-fixed paraffin-embedded (FFPE) patient tissues. While formalin fixation and paraffin embedding optimally preserve histomorphology and allow long-term tissue storage at ambient temperature, they, on the other hand, lead to DNA crosslinks posing a challenge for sequencing analyses.
-To overcome this limitation, we have successfully developed a protocol for dissociation of FFPE tissues into single cells that are suitable for immunolabeling, flow sorting and genomic analysis by whole exome sequencing of pure tumor cell populations, single cell copy number variation (CNV) sequencing and multiplex interphase fluorescence in situ hybridization (miFISH). 
-Our genomic analyses at the population as well as individual cell level revealed divergent aberration patterns and distinct levels of intra-tumor heterogeneity. Major tumor clones were characterized by gains of EGFR (7p11.2), MYC (8q24.21), CDX2 (13q12.2) and ZNF217 (20q13.2) along with losses of SMAD4 (18q21.2) and TP53 (17p13.1). While in some patients the clonal composition remained largely stable throughout treatment, in others major clonal shifts occurred favoring clones with TP53 loss. 
-Our preliminary results indicate different propensities of genetically distinct tumor cell clones in therapy response and metastatic progression. Furthermore, our data show the feasibility of high-resolution clonal reconstruction from whole exome sequencing and single cell CNV sequencing data of FFPE cells.
+- Submitter: Katherine E. Masih (Student or postbac)
+- email: katherine.masih@nih.gov
+                  
+Background
+        Acute lymphoblastic leukemia (ALL) is the most common childhood cancer with a peak incidence between 3-5 years of age. Despite the improved survival rate of 90% for newly diagnosed children with ALL, the outcome for patients who relapse is poor with a less than 30% survival. CD19 CAR T-cell therapy has shown remarkable response rates between 80-90% in relapsed/refractory disease, which has resulted in FDA approval for two products against leukemia/lymphoma. However, 30 - 70% of initial responders will eventually relapse, and little is known about antigen-independent factors that predict initial resistance to CD19 CAR T-cell therapy. We hypothesized that leukemias that are resistant to CD19 CAR T-cell therapy are distinct from sensitive leukemias and that these differences can be detected prior to therapy. 
 
-- Submitter: Daniela Hirsch (Postdoc or fellow)
-- Supervisor: Thomas Ried
-- email: daniela.hirsch@nih.gov
+Methods
+To interrogate differences in the genomes, transcriptomes, intratumoral heterogeneity, and epigenetic landscapes between resistant and sensitive leukemias, we obtained pre-treatment bone marrow aspirates (BMAs) from patients enrolled in a clinical trial at Seattle Children’s Hospital (PLAT-02). Samples were categorized based on patient response and included 7 resistant (2 with matched post-treatment) and 7 sensitive leukemias as matched controls. We performed multi-omic analyses, including whole exome sequencing, bulk RNA-seq, array-based methylation, single cell RNA-seq, CyTOF, ATAC-seq, and H3K27ac ChIP-seq. Additionally, we established CD19 CAR T resistant and sensitive patient derived xenografts (PDXs) of these leukemias, for in vivo modelling of these diseases.
+
+Results
+We identified mutations and fusions in known epigenetic modifiers, including CREBBP and EP300, in all resistant leukemias. ATAC-seq revealed relatively more accessible chromatin in resistant patients in comparison to sensitive (16,082 vs. 6,070 peaks). The combination of altered epigenetic modifiers and increased chromatin accessibility is suggestive of epigenetic plasticity.  Motif analysis of these differentially accessible peaks showed an enrichment for AP-1 binding proteins, particularly JUN and its partners, which provides a mechanism to avoid caspase-induced apoptosis, the downstream effect of cytotoxic T-cell killing. Methylation array and expression data indicate promoter hypermethylation and lowered expression of JUN pathway genes in sensitive leukemias.  CyTOF identified a subpopulation with characteristics of both myeloid and lymphoid lineages in one sample that may represent a resistant population of cells selected for under CAR T-cell pressure.   Analysis of the pretreatment marrow microenvironment indicates that patients with sensitive leukemias have activated T-cell populations, suggestive of more robust T-cells capable of rejecting the leukemias.
+
+Conclusions
+This study establishes one of the most integrative and comprehensive multi-omic profiling approaches for patient samples. Our results indicate the association of epigenetic plasticity, JUN pathway upregulation, and decreased T-cell activation with resistance to CD19 CAR T-cell therapy. We are currently validating these results by modelling our cohort’s therapy resistance in vivo. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
