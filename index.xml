@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Genetics Branch Retreat</title>
+    <title>Genetics Branch Retreat 2020</title>
     <link>https://seandavi.github.io/genetics_branch_retreat_site/</link>
-    <description>Recent content on Genetics Branch Retreat</description>
+    <description>Recent content on Genetics Branch Retreat 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,126 +17,258 @@
       
       <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-1/</guid>
       <description>Bruna R. Muys, Dimitrios G. Anastasakis, Duncan Claypool, Lorinc Pongor, Xiao Ling Li, Ioannis Grammatikakis, Minxue Liu, Xiantao Wang, Kannanganattu V. Prasanth, Mirit I. Aladjem, Markus Hafner and Ashish Lal
-p53 is an intensely studied tumor suppressive transcription factor. Recent studies suggest that the RNA-binding protein (RBP) ZMAT3 is important in mediating the tumor suppressive effects of p53. Here, we globally identify ZMAT3-regulated RNAs and their binding sites at nucleotide resolution in intact colorectal cancer (CRC) cells.</description>
-    </item>
-    
-    <item>
-      <title>Increased Leukemic Epigenetic Plasticity and Pre-Treatment T-Cell Activation Predict Resistance to CD19 CAR T Cell Therapy in Pediatric Acute Lymphoblastic Leukemia</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-2/</guid>
-      <description>Katherine E. Masih, David Milewski, Abdalla Abdelmaksoud, Hsien-Chao Chou, Berkley E. Gryder, Rebecca Gardner, Ashley L. Wilson, Serifat Adebola, Benjamin Z. Stanton, Young K. Song, Chaoyu Wang, Xinyu Wen, Zachary Rae, Allison Ruchinskas, Adam Cheuk, Grégoire Altan-Bonnet, Michael Kelly, Jun S. Wei, Michael C. Jensen, Rimas J. Orentas, and Javed Khan
-Background Acute lymphoblastic leukemia (ALL) is the most common childhood cancer with a peak incidence between 3-5 years of age.</description>
-    </item>
-    
-    <item>
-      <title>Immunogenomic Approaches to Optimize Immunotherapeutic Targeting of Neuroblastoma</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-3/</guid>
-      <description>Meijie Tian, Adam Tai-Chi Cheuk, Jun S. Wei, Young K. Song, Abdalla Abdelmaksoud, Sivasish Sindiri, Nan Li, Christopher M. Dower, Haiying Qin, Mitchell Ho, Bradley St Croix, and Javed Khan
-Background: Neuroblastoma (NB) is the most common extra-cranial solid cancer in children. Although multimodal therapies with differentiating agents and immunotherapy with anti-GD2 antibody and GM-CSF have shown promising results, it remains deadly in approximately 50% of patients with high-risk disease. Chimeric antigen receptor T-cell therapies (CAR-T) have been found to be effective in treating refractory and relapsed leukemia and lymphoma, and two of them have been recently approved by the FDA.</description>
-    </item>
-    
-    <item>
-      <title>Genomic Heterogeneity and Clonal Dynamics of the Evolution of Treatment Resistance and Metastatic Progression in Rectal Cancer</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</guid>
-      <description>Daniela Hirsch, Judith Lieberich, Kerstin Heselmeyer-Haddad, Yonca Ceribas, Michael Kelly, Keyur Talsania, Yongmei Zhao, Timo Gaiser, Thomas Ried
-The standard treatment for locally advanced rectal cancer is chemoradiotherapy followed by surgery. However, patient response to pre-operative chemoradiotherapy is highly heterogeneous, ranging from complete tumor regression to no response. Over the course of disease, up to 40% of patients suffer from local relapse or the development of metachronous metastatic disease, compromising survival.</description>
-    </item>
-    
-    <item>
-      <title>Self-Renewal of Committed Hematopoietic Precursors Leads to Abnormal Hematopoiesis and Myelodysplastic Syndrome </title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-5/</guid>
-      <description>Yang Jo Chung, Ryan Bertoli, and Peter D. Aplan
-The ineffective hematopoiesis that is characteristic of myelodysplastic syndrome (MDS) suggests the presence of defective hematopoietic stem and progenitor cells (HSPC). NUP98-HOXD13 (NHD13) transgenic mice recapitulate many features of human MDS such as ineffective hematopoiesis, peripheral blood cytopenias, dysplasia, and transformation to acute myeloid leukemia (AML), and have been used as a pre-clinical model for human MDS. NHD13 mice universally develop signs of MDS (e.</description>
-    </item>
-    
-    <item>
-      <title>R-Loops at Centromeric Chromatin Contribute to Defects in Kinetochore Integrity and Chromosomal Instability</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-6/</guid>
-      <description>Prashant K. Mishra, Arijita Chakraborty, Elaine Yeh, Wenyi Feng, Kerry S. Bloom and Munira A. Basrai
-R-loops, the by-product of DNA-RNA hybridization and the displaced single stranded DNA, have been identified across the domains of life. The persistent presence of R-loops contributes to defects in DNA replication and repair, gene expression, and genomic integrity. R-loops have not been detected at centromeric (CEN) chromatin in wild-type budding yeast and its physiological significance in chromosome segregation remains unexplored.</description>
-    </item>
-    
-    <item>
-      <title>Determination of the Contribution of EWSR1 to the Phenotype of Ewing Sarcoma Cells via a CRISPR-Mediated Tagging Strategy </title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</guid>
-      <description>Soumya Sundara Rajan, Katelyn R. Ludwig, Javed Khan, Raj Chari, Natasha J. Caplen.
-A sub-set of chromosomal rearrangements result in the expression of chimeric proteins that facilitate malignant transformation. Ewing sarcoma (EWS) is one such cancer, where a chromosomal translocation results in the expression of a chimeric protein. This fusion oncoprotein consists of the N-terminus of the RNA-binding protein EWSR1 and the C-terminus of a member of the ETS transcription family, in most cases, FLI1.</description>
-    </item>
-    
-    <item>
-      <title>Combined Immunogenomic and Immunopeptidomic Analyses Identified Biologically Relevant Immune Signatures and Novel Immunotherapy Targets in Osteosarcoma</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-8/</guid>
-      <description>David Milewski, Jun S. Wei, Sivasish Sindiri, Andrew Brohl, Young Song, Xinyu Wen, Andy Qi, Udayan Guha, and Javed Khan.
-Background: Osteosarcoma is an aggressive bone tumor that is one of the leading causes of cancer-related death in the pediatric population. Several phase I clinical trials have reported occasional clinical responses to immune checkpoint inhibitors in osteosarcoma patients. The key feature of immunotherapy involves T cell recognition of peptides from abnormal proteins (tumor-associated antigens; TAAs) presented by MHC class I of tumor cells which stimulates specific anti-tumor cytotoxicity.</description>
-    </item>
-    
-    <item>
-      <title>Genetic Counseling Strategies for Patients With a Germline Variant Downgraded to Uncertain Significance, Likely Benign or Benign Following Risk-Reducing Surgery</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-9/</guid>
-      <description>Yi Liu, Grace-Ann Fasaye, Chimene Kesserwan, Kathleen Calzone
-Genetic variant interpretation is an evolving process dependent on the collective evidence at that moment of time. Also, it is based on the pipeline and expertise used in each laboratory despite the adoption of ACMG guidelines for sequence variant interpretation and centralized resources such as ClinVar. Thus, there is discordance in variant interpretation between laboratories. Health providers (HP) are challenged when counseling patients post risk-reducing surgery with a genetic variant downgraded from likely pathogenic to variant uncertain significance, benign or likely benign.</description>
-    </item>
-    
-    <item>
-      <title>Prospective CfDNA Screening for Patient Recruitment of HPV-Targeted TCR Cancer Therapy Clinical Trial</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-10/</guid>
-      <description>Zhigang Kang, Nisha Nagarsheth, Christian Hinrichs and Liang Cao
-In a retrospective study, we previously demonstrated that HPV ctDNA could be used as a noninvasive marker for tumor HPV genotyping and disease monitoring. To explore the clinical value of HPV ctDNA for companion diagnosis, we prospectively collected plasma samples from HPV associated cancer patients and tested in two independent laboratories for both genotyping and quantitation of HPV 16 and HPV18 ctDNA.</description>
+ Submitter: Bruna Muys (Postdoc or fellow) email: bruna.muys@nih.gov  p53 is an intensely studied tumor suppressive transcription factor. Recent studies suggest that the RNA-binding protein (RBP) ZMAT3 is important in mediating the tumor suppressive effects of p53. Here, we globally identify ZMAT3-regulated RNAs and their binding sites at nucleotide resolution in intact colorectal cancer (CRC) cells.</description>
     </item>
     
     <item>
       <title>A Small Protein Encoded by a Putative LncRNA Regulates Apoptosis and Tumorigenicity in Human Colorectal Cancer Cells </title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-2/</guid>
       <description>Xiao Ling Li, Lorinc Pongor, Wei Tang, Sudipto Das, Bruna R. Muys, Matthew F. Jones, Sarah B. Lazar, Emily A. Dangelmaier, Corrine C. R. Hartford, Ioannis Grammatikakis, Qinyu Hao, Qinyu Sun, Aaron Schetter, Jennifer L. Martindale, BinWu Tang, Lisa M. Jenkins, Ana I. Robles, Robert L. Walker, Stefan Ambs, Raj Chari, Svetlana A.Shabalina, Myriam Gorospe, Perwez S. Hussain, Curtis C. Harris, Paul S. Meltzer, Kannanganattu V. Prasanth, Mirit I. Aladjem, Thorkell Andresson, and Ashish Lal*</description>
     </item>
     
     <item>
       <title>A Circular RNA From the MDM2 Locus Controls Cell Cycle Progression by Suppressing P53 Levels</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-3/</guid>
       <description>Ritu Chaudhary, Bruna R. Muys, Ioannis Grammatikakis, Supriyo De, Kotb Abdelmohsen, Xiao Ling Li, Yuelin Zhu, Swapna Vidhur Daulatabad, Dimitrios Tsitsipatis, Paul S. Meltzer, Myriam Gorospe, Sarath Chandra Janga, Ashish Lal
-Circular RNAs (circRNAs) are a class of noncoding RNAs produced by a noncanonical form of alternative splicing called back-splicing. To investigate a potential role of circRNAs in the p53 pathway, we analyzed RNA sequencing (RNA-seq) data from colorectal cancer cell lines (HCT116, RKO, and SW48) that were untreated or treated with a DNA-damaging agent.</description>
+ Submitter: Ioannis Grammatikakis (Staff scientist, staff clinician) email: yannis.grammatikakis@nih.gov  Circular RNAs (circRNAs) are a class of noncoding RNAs produced by a noncanonical form of alternative splicing called back-splicing. To investigate a potential role of circRNAs in the p53 pathway, we analyzed RNA sequencing (RNA-seq) data from colorectal cancer cell lines (HCT116, RKO, and SW48) that were untreated or treated with a DNA-damaging agent.</description>
+    </item>
+    
+    <item>
+      <title>Increased Leukemic Epigenetic Plasticity and Pre-Treatment T-Cell Activation Predict Resistance to CD19 CAR T Cell Therapy in Pediatric Acute Lymphoblastic Leukemia</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</guid>
+      <description>Katherine E. Masih, David Milewski, Abdalla Abdelmaksoud, Hsien-Chao Chou, Berkley E. Gryder, Rebecca Gardner, Ashley L. Wilson, Serifat Adebola, Benjamin Z. Stanton, Young K. Song, Chaoyu Wang, Xinyu Wen, Zachary Rae, Allison Ruchinskas, Adam Cheuk, Grégoire Altan-Bonnet, Michael Kelly, Jun S. Wei, Michael C. Jensen, Rimas J. Orentas, and Javed Khan
+ Submitter: Katherine E. Masih (Student or postbac) email: katherine.masih@nih.gov  Background Acute lymphoblastic leukemia (ALL) is the most common childhood cancer with a peak incidence between 3-5 years of age.</description>
+    </item>
+    
+    <item>
+      <title>Immunogenomic Approaches to Optimize Immunotherapeutic Targeting of Neuroblastoma</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-5/</guid>
+      <description>Meijie Tian, Adam Tai-Chi Cheuk, Jun S. Wei, Young K. Song, Abdalla Abdelmaksoud, Sivasish Sindiri, Nan Li, Christopher M. Dower, Haiying Qin, Mitchell Ho, Bradley St Croix, and Javed Khan
+ Submitter: Meijie Tian (Postdoc or fellow) email: meijie.tian@nih.gov  Background: Neuroblastoma (NB) is the most common extra-cranial solid cancer in children. Although multimodal therapies with differentiating agents and immunotherapy with anti-GD2 antibody and GM-CSF have shown promising results, it remains deadly in approximately 50% of patients with high-risk disease.</description>
+    </item>
+    
+    <item>
+      <title>Combined Immunogenomic and Immunopeptidomic Analyses Identified Biologically Relevant Immune Signatures and Novel Immunotherapy Targets in Osteosarcoma</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-6/</guid>
+      <description>David Milewski, Jun S. Wei, Sivasish Sindiri, Andrew Brohl, Young Song, Xinyu Wen, Andy Qi, Udayan Guha, and Javed Khan.
+ Submitter: David Milewski (Postdoc or fellow) email: david.milewski@nih.gov  Background: Osteosarcoma is an aggressive bone tumor that is one of the leading causes of cancer-related death in the pediatric population. Several phase I clinical trials have reported occasional clinical responses to immune checkpoint inhibitors in osteosarcoma patients. The key feature of immunotherapy involves T cell recognition of peptides from abnormal proteins (tumor-associated antigens; TAAs) presented by MHC class I of tumor cells which stimulates specific anti-tumor cytotoxicity.</description>
     </item>
     
     <item>
       <title>Identification of a First-in-Class KDM3B Inhibitor That Suppresses PAX3-FOXO1 Oncogene Activity in Fusion Positive Rhabdomyosarcoma</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</guid>
+      <description>Yong Yean Kim, Robert Hawley, Berkley Gryder, Silvia Pomella, Josh Kowalczyk, Ranu Sinniah, Young Song, and Javed Khan
+ Submitter: Yong Yean Kim (Postdoc or fellow) email: yong.kim@nih.gov  BACKGROUND: The PAX3/7-FOXO1 fusion gene is the major oncogenic driver in fusion positive rhabdomyosarcoma (FP-RMS), which is a highly aggressive soft tissue muscle sarcoma of childhood. The chimeric gene results from either t(2;13) or t(1;13) translocation and has been shown by our group to drive FP-RMS oncogenesis through transcription activation driven by super enhancers.</description>
+    </item>
+    
+    <item>
+      <title>Prospective CfDNA Screening for Patient Recruitment of HPV-Targeted TCR Cancer Therapy Clinical Trial</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-8/</guid>
+      <description>Zhigang Kang, Nisha Nagarsheth, Christian Hinrichs and Liang Cao
+ Submitter: Zhigang Kang (Biologist, bioinformatician, chemist, technician) email: zhigang.kang@nih.gov  In a retrospective study, we previously demonstrated that HPV ctDNA could be used as a noninvasive marker for tumor HPV genotyping and disease monitoring. To explore the clinical value of HPV ctDNA for companion diagnosis, we prospectively collected plasma samples from HPV associated cancer patients and tested in two independent laboratories for both genotyping and quantitation of HPV 16 and HPV18 ctDNA.</description>
+    </item>
+    
+    <item>
+      <title>R-Loops at Centromeric Chromatin Contribute to Defects in Kinetochore Integrity and Chromosomal Instability</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-9/</guid>
+      <description>Prashant K. Mishra, Arijita Chakraborty, Elaine Yeh, Wenyi Feng, Kerry S. Bloom and Munira A. Basrai
+ Submitter: Prashant K. Mishra (Staff scientist, staff clinician) email: mishrap@mail.nih.gov  R-loops, the by-product of DNA-RNA hybridization and the displaced single stranded DNA, have been identified across the domains of life. The persistent presence of R-loops contributes to defects in DNA replication and repair, gene expression, and genomic integrity. R-loops have not been detected at centromeric (CEN) chromatin in wild-type budding yeast and its physiological significance in chromosome segregation remains unexplored.</description>
+    </item>
+    
+    <item>
+      <title>Cdc48/Ufd1/Npl4 Segregase Regulates Removal of CENP-a/Cse4 From Non-Centromeric Regions to Prevent Chromosomal Instability</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-10/</guid>
+      <description>Kentaro Ohkuni, Wei-Chun Au, Loran Gliford, Evelyn Suva, and Munira A. Basrai
+ Submitter: Kentaro Ohkuni (Postdoc or fellow) email: kentaro.ohkuni@nih.gov  Centromeric localization of histone H3 variant, CENP-A (Cse4 in S. cerevisiae, CID in flies), is essential for faithful chromosome segregation. Overexpressed CENP-A leads to its mis-localization to non-centromeric chromatin and contributes to aneuploidy in yeast, flies and humans. Overexpression and mislocalization of CENP-A is observed in many cancers and is proposed to promote tumorigenesis.</description>
+    </item>
+    
+    <item>
+      <title>Determination of the Contribution of EWSR1 to the Phenotype of Ewing Sarcoma Cells via a CRISPR-Mediated Tagging Strategy </title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</guid>
+      <description>Soumya Sundara Rajan, Katelyn R. Ludwig, Javed Khan, Raj Chari, Natasha J. Caplen.
+ Submitter: Soumya Rajan (Postdoc or fellow) email: soumya.sundararajan@nih.gov  A sub-set of chromosomal rearrangements result in the expression of chimeric proteins that facilitate malignant transformation. Ewing sarcoma (EWS) is one such cancer, where a chromosomal translocation results in the expression of a chimeric protein. This fusion oncoprotein consists of the N-terminus of the RNA-binding protein EWSR1 and the C-terminus of a member of the ETS transcription family, in most cases, FLI1.</description>
+    </item>
+    
+    <item>
+      <title>The RNA and Protein Determinates Governing the HNRNPH1-Dependent Inclusion or Exclusion of EWSR1 Exon 8</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</guid>
+      <description>Katherine Hall, Tayvia Brownmiller, Tam Vo, Mayank Tandon, Alexei Lobanov, Katelyn Ludwig, Tamara L. Jones, Carla Neckles, Natasha J. Caplen
+ Submitter: Katherine Hall (Student or postbac) email: hallkl@nih.gov  About 85% of Ewing sarcomas (EWS) harbor a translocation that fuses a portion of the EWSR1 gene (promoter through either part of introns 7 or 8) to the 3&amp;rsquo; end of the FLI1 gene (parts of either introns 5 or 6 through exon 9 and the 3&amp;rsquo; untranslated region).</description>
+    </item>
+    
+    <item>
+      <title>Topoisomerase 2-Related DNA Damage and DNA-PK Inhibition as a Rational Drug Combination for the Treatment of Ewing Sarcoma</title>
       <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-13/</guid>
-      <description>Yong Yean Kim, Robert Hawley, Berkley Gryder, Silvia Pomella, Josh Kowalczyk, Ranu Sinniah, Young Song, and Javed Khan
-BACKGROUND: The PAX3/7-FOXO1 fusion gene is the major oncogenic driver in fusion positive rhabdomyosarcoma (FP-RMS), which is a highly aggressive soft tissue muscle sarcoma of childhood. The chimeric gene results from either t(2;13) or t(1;13) translocation and has been shown by our group to drive FP-RMS oncogenesis through transcription activation driven by super enhancers.</description>
+      <description>Katelyn R. Ludwig, Victor Collins, Natasha J. Caplen, Christine Heske
+  Submitter: Katelyn Ludwig (Postdoc or fellow)
+  email: katelyn.ludwig@nih.gov
+Ewing sarcoma (EWS) is an aggressive bone and soft tissue malignancy predominantly affecting children and adolescents in the second decade of life. The current first-line chemotherapeutic regimen for treatment of EWS involves cyclical administration of vincristine, doxorubicin, and cyclophosphamide (VDC) alternating with ifosfamide and etoposide (IE). Although outcomes in patients who present with localized disease have improved, long-term outcomes in patients with metastatic, relapsed, or refractory EWS are dismal, with survival rates of less than 20%.</description>
+    </item>
+    
+    <item>
+      <title>EWS-ETS Fusion Oncoproteins Suppress the Expression of Transcriptional Regulators of Cell Lineage or Differentiation</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-14/</guid>
+      <description>Vernon Ebegboni, Tamara L. Jones, Soumya Sundara Rajan, Carla Neckles, Allison Cross, Natasha J. Caplen
+ Submitter: Vernon Justice Ebegboni (Postdoc or fellow) email: vernon.ebegboni@nih.gov  In most solid malignancies, an essential determinant of the plasticity required for metastasis is the genetic heterogeneity of the primary tumor that reflects an increasing mutational burden over time. However, in Ewing sarcoma (EWS), an aggressive bone and soft tissue sarcoma affecting children and young adults, there is a single oncogenic mutation that drives tumor development and must also regulate metastasis.</description>
+    </item>
+    
+    <item>
+      <title>Genetic Counseling Strategies for Patients With a Germline Variant Downgraded to Uncertain Significance, Likely Benign or Benign Following Risk-Reducing Surgery</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-15/</guid>
+      <description>Yi Liu, Grace-Ann Fasaye, Chimene Kesserwan, Kathleen Calzone
+ Submitter: Yi Liu (Research nurse, genetic counselor) email: yi.liu2@nih.gov  Genetic variant interpretation is an evolving process dependent on the collective evidence at that moment of time. Also, it is based on the pipeline and expertise used in each laboratory despite the adoption of ACMG guidelines for sequence variant interpretation and centralized resources such as ClinVar. Thus, there is discordance in variant interpretation between laboratories.</description>
+    </item>
+    
+    <item>
+      <title>Association Between CDH1 Pathogenic and Likely Pathogenic Variants, Orofacial Cleft, and Cancer History </title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-16/</guid>
+      <description>Anna Duemler, Grace-Ann Fasaye, Kathleen Calzone, Jeremy Davis Center for Cancer Research, National Cancer Institute (NCI), National Institutes of Health
+ Submitter: Anna Duemler (Student or postbac) email: anna.duemler@nih.gov  Introduction: The CDH1 gene codes for epithelial cadherin protein(E-cadherin) production which is involved in calcium dependent cell adhesion and protein interactions for normal craniofacial development and tumor suppression. CDH1 pathogenic and likely pathogenic (P/LP) variants are associated with non-syndromic cleft lip and/or palate(CL/P); Blepharocheilodontic syndrome(characterized by eyelid malformations, CL/P and ectodermal dysplasia); Hereditary Diffuse Gastric Cancer(HDGC); and Hereditary Lobular Breast Cancer (HLBC).</description>
+    </item>
+    
+    <item>
+      <title>Broadening Our Knowledge of the BAP1 Tumor Predisposition Syndrome</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-17/</guid>
+      <description>Alexandra Lebensohn, Grace Fasaye, Maria Gracia Agra, Yvonne Mallory, Cathy Wagner, Rosemary Bekker, Azam Ghafoor, Kathleen Calzone, Raffit Hassan
+ Submitter: Alexandra Lebensohn (Research nurse, genetic counselor) email: alexandra.lebensohn@nih.gov  There is still much to learn about hereditary malignant mesothelioma, historically attributed primarily to asbestos exposure. Hassan et al. demonstrated that germline DNA repair pathogenic variants are present in approximately 12% of malignant mesothelioma cases in a cohort of 385 patients.</description>
+    </item>
+    
+    <item>
+      <title>LRRC15, a Candidate Immunotherapy Target, Regulates Cell-Cell Interaction, Migration and Spheroid Formation in Osteosarcoma Cells</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-18/</guid>
+      <description>Sanjit Mukherjee1, Konrad Huppi1, Robert L. Walker1, Jack Zhu1, Marbin Pineda 1, Fan Yang1, James Purcell2, Lee J. Helman3 and Paul S. Meltzer1 1Genetics Branch, Center for Cancer Research, National Cancer Institute, Bethesda, MD, 2AbbVie Biotherapeutics, Redwood City, CA, 3Children’s Hospital Los Angeles, Los Angeles, CA.
+ Submitter: Sanjit Mukherjee (Postdoc or fellow) email: sanjit.mukherjee@nih.gov  Background: Leucine-rich repeat containing 15 (LRRC15), a transmembrane protein, whose expression can be modulated by TGFβ, has been found to be highly expressed in multiple solid tumors (e.</description>
+    </item>
+    
+    <item>
+      <title>The Expression of Rapidly Degradable ATRX in Osteosarcoma Cells Is a Model System to Observe the Early Molecular Events of ALT Acquisition</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-19/</guid>
+      <description>Nancy S. Lee, Sarah F. Clatterbuck Soper &amp;amp; Paul Meltzer
+ Submitter: Nancy Lee (Student or postbac) email: leenas@nih.gov  The alternative lengthening of telomeres (ALT) is an aberrant telomere maintenance mechanism which occurs in the absence of telomerase. ALT is believed to be a DNA template-based repair mechanism characterized by long telomeres of heterogenous lengths, accumulation of extrachromosomal telomeric repeats (ECTRs), and formation of ALT-associated promyelocytic leukemia (PML) bodies. Loss of function of the ATRX-DAXX histone chaperone complex is strongly associated with the ALT phenotype in osteosarcoma and other cancers of mesenchymal origin.</description>
+    </item>
+    
+    <item>
+      <title>ALT Suppression Requires Localization of ATRX to PML Bodies Downstream of DAXX Binding of Histone H3.3</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-20/</guid>
+      <description>Sarah F. Clatterbuck Soper and Paul S. Meltzer
+ Submitter: Sarah Clatterbuck Soper (Postdoc or fellow) email: sarah.clatterbucksoper@nih.gov  To counteract the end-replication problem, proliferating cells must enact a program of telomere maintenance. In 10-15% of tumors telomeres are lengthened not by telomerase but through a DNA-templated process termed Alternative Lengthening of Telomeres or ALT. ALT is associated with mutations in the ATRX/DAXX/H3.3 histone chaperone complex, which is responsible for deposition of non-replicative histone variant H3.</description>
+    </item>
+    
+    <item>
+      <title>Self-Renewal of Committed Hematopoietic Precursors Leads to Abnormal Hematopoiesis and Myelodysplastic Syndrome </title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-21/</guid>
+      <description>Yang Jo Chung, Ryan Bertoli, and Peter D. Aplan
+ Submitter: Yang Jo Chung (Staff scientist, staff clinician) email: chungya@mail.nih.gov  The ineffective hematopoiesis that is characteristic of myelodysplastic syndrome (MDS) suggests the presence of defective hematopoietic stem and progenitor cells (HSPC). NUP98-HOXD13 (NHD13) transgenic mice recapitulate many features of human MDS such as ineffective hematopoiesis, peripheral blood cytopenias, dysplasia, and transformation to acute myeloid leukemia (AML), and have been used as a pre-clinical model for human MDS.</description>
+    </item>
+    
+    <item>
+      <title>A Novel Mouse Model of Lymphomas/Leukemias: Mini-Chromosome Maintenance (Mcm) 2</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-22/</guid>
+      <description>Toshihiro Matsukawa, Mianmian Yin, Ryan Bertoli, Timour Baslan, Peter D. Aplan
+ Submitter: Toshihiro Matsukawa (Postdoc or fellow) email: toshihiro.matsukawa@nih.gov  DNA replicative stress is associated with malignant transformation. Mini-chromosome maintenance 2 (hereafter Mcm2) is a component of a DNA helicase complex and is required for normal DNA replication. Mice with a Cre cassette “knocked-into” the 3’UTR of the Mcm2 gene (designated Mcm2Cre) are Mcm2 hypomorphs and have decreased Mcm2 protein levels.</description>
+    </item>
+    
+    <item>
+      <title>The Effects of Acute Lymphoid and Myeloid Leukemia on Wild-Type Hematopoiesis in Mice</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-23/</guid>
+      <description>Ryan Bertoli, Yang Jo Chung, and Peter Aplan
+ Submitter: Ryan Bertoli (Student or postbac) email: RYAN.BERTOLI@NIH.GOV  Introduction: Acute lymphoid leukemia (ALL) and acute myeloid leukemia (AML) are aggressive forms of blood cancer which are difficult to treat and often fatal. These cancers hinder hematopoiesis, or the ability to produce new blood cells of diverse lineage. Leukemic cell expansion often leads to bone marrow failure, caused by a depletion of hematopoietic stem and progenitor cells (HSPCs) in the marrow.</description>
+    </item>
+    
+    <item>
+      <title>Genomic Heterogeneity and Clonal Dynamics of the Evolution of Treatment Resistance and Metastatic Progression in Rectal Cancer</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-24/</guid>
+      <description>Daniela Hirsch, Judith Lieberich, Kerstin Heselmeyer-Haddad, Yonca Ceribas, Michael Kelly, Keyur Talsania, Yongmei Zhao, Timo Gaiser, Thomas Ried
+ Submitter: Daniela Hirsch (Postdoc or fellow) email: daniela.hirsch@nih.gov  The standard treatment for locally advanced rectal cancer is chemoradiotherapy followed by surgery. However, patient response to pre-operative chemoradiotherapy is highly heterogeneous, ranging from complete tumor regression to no response. Over the course of disease, up to 40% of patients suffer from local relapse or the development of metachronous metastatic disease, compromising survival.</description>
+    </item>
+    
+    <item>
+      <title>Modeling Chromosome Instability in High-Grade Serous Ovarian Cancer: Minor Instability Permitted by TP53 Loss Is Exacerbated by BRCA1 Mutation</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-25/</guid>
+      <description>Daniel Bronder, Darawalee Wangsa, Dali Zong, Thomas J. Meyer, Irena Bockaj, René Wardenaar, Paul Minshall, Daniela Hirsch, Kerstin Heselmeyer-Haddad, Anthony Tighe, Louisa Nelson, Diana Spierings, Joanne McGrail, Maggie Cam, André Nussenzweig, Floris Foijer, Thomas Ried, Stephen S. Taylor
+ Submitter: Daniel Bronder (Student or postbac) email: daniel.bronder@nih.gov  High-grade serous ovarian cancer (HGSOC) originates in the fallopian tube and is characterized by ubiquitous TP53 mutations, high levels of chromosome instability (CIN) and resulting aneuploidy.</description>
+    </item>
+    
+    <item>
+      <title>TCF7L2 Silencing Results in a LEF1-Driven Feedback Response</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-26/</guid>
+      <description>Markus Brown, Gabrielle Dotson, Tianzuo Zhan, Juliane Kamlah, Hannah Warshawsky, Indika Rajapakse, Michael Boutros, Thomas Ried
+ Submitter: Markus Brown (Student or postbac) email: markus.brown@nih.gov  The transcription factor, TCF7L2, is the major effector of the WNT signaling pathway in the colon. The expression of TCF7L2 target genes, such as MYC, is required to maintain the stem cell compartment of the large intestine. We investigated the dynamical influence of TCF7L2 silencing on gene expression patterns and nuclear structure in the SW480 colorectal cancer cell line by performing RNA sequencing and Hi-C at multiple time points.</description>
     </item>
     
     <item>
@@ -150,10 +282,82 @@ BACKGROUND: The PAX3/7-FOXO1 fusion gene is the major oncogenic driver in fusion
     
     <item>
       <title></title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-14/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-27/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-14/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-35/</guid>
       <description></description>
     </item>
     

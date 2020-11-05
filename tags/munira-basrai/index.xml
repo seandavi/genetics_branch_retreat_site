@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Munira Basrai on Genetics Branch Retreat</title>
+    <title>Munira Basrai on Genetics Branch Retreat 2020</title>
     <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/munira-basrai/</link>
-    <description>Recent content in Munira Basrai on Genetics Branch Retreat</description>
+    <description>Recent content in Munira Basrai on Genetics Branch Retreat 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -12,12 +12,22 @@
     
     <item>
       <title>R-Loops at Centromeric Chromatin Contribute to Defects in Kinetochore Integrity and Chromosomal Instability</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-6/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-6/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-9/</guid>
       <description>Prashant K. Mishra, Arijita Chakraborty, Elaine Yeh, Wenyi Feng, Kerry S. Bloom and Munira A. Basrai
-R-loops, the by-product of DNA-RNA hybridization and the displaced single stranded DNA, have been identified across the domains of life. The persistent presence of R-loops contributes to defects in DNA replication and repair, gene expression, and genomic integrity. R-loops have not been detected at centromeric (CEN) chromatin in wild-type budding yeast and its physiological significance in chromosome segregation remains unexplored.</description>
+ Submitter: Prashant K. Mishra (Staff scientist, staff clinician) email: mishrap@mail.nih.gov  R-loops, the by-product of DNA-RNA hybridization and the displaced single stranded DNA, have been identified across the domains of life. The persistent presence of R-loops contributes to defects in DNA replication and repair, gene expression, and genomic integrity. R-loops have not been detected at centromeric (CEN) chromatin in wild-type budding yeast and its physiological significance in chromosome segregation remains unexplored.</description>
+    </item>
+    
+    <item>
+      <title>Cdc48/Ufd1/Npl4 Segregase Regulates Removal of CENP-a/Cse4 From Non-Centromeric Regions to Prevent Chromosomal Instability</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-10/</guid>
+      <description>Kentaro Ohkuni, Wei-Chun Au, Loran Gliford, Evelyn Suva, and Munira A. Basrai
+ Submitter: Kentaro Ohkuni (Postdoc or fellow) email: kentaro.ohkuni@nih.gov  Centromeric localization of histone H3 variant, CENP-A (Cse4 in S. cerevisiae, CID in flies), is essential for faithful chromosome segregation. Overexpressed CENP-A leads to its mis-localization to non-centromeric chromatin and contributes to aneuploidy in yeast, flies and humans. Overexpression and mislocalization of CENP-A is observed in many cancers and is proposed to promote tumorigenesis.</description>
     </item>
     
   </channel>

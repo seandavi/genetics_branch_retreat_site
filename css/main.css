@@ -5,7 +5,7 @@ html, body {
 body {
     padding-top: 55px;
     display: flex;
-    text-align: center;
+    text-align: left;
     flex-direction: column;
 }
 
@@ -83,7 +83,7 @@ a:hover {
 /* List item for posts/projects */
 
 .item {
-    padding: 10px 0;
+    padding: 2px 0;
 }
 
 .item-tag {

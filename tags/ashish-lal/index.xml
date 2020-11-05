@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ashish Lal on Genetics Branch Retreat</title>
+    <title>Ashish Lal on Genetics Branch Retreat 2020</title>
     <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/ashish-lal/</link>
-    <description>Recent content in Ashish Lal on Genetics Branch Retreat</description>
+    <description>Recent content in Ashish Lal on Genetics Branch Retreat 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,26 +17,26 @@
       
       <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-1/</guid>
       <description>Bruna R. Muys, Dimitrios G. Anastasakis, Duncan Claypool, Lorinc Pongor, Xiao Ling Li, Ioannis Grammatikakis, Minxue Liu, Xiantao Wang, Kannanganattu V. Prasanth, Mirit I. Aladjem, Markus Hafner and Ashish Lal
-p53 is an intensely studied tumor suppressive transcription factor. Recent studies suggest that the RNA-binding protein (RBP) ZMAT3 is important in mediating the tumor suppressive effects of p53. Here, we globally identify ZMAT3-regulated RNAs and their binding sites at nucleotide resolution in intact colorectal cancer (CRC) cells.</description>
+ Submitter: Bruna Muys (Postdoc or fellow) email: bruna.muys@nih.gov  p53 is an intensely studied tumor suppressive transcription factor. Recent studies suggest that the RNA-binding protein (RBP) ZMAT3 is important in mediating the tumor suppressive effects of p53. Here, we globally identify ZMAT3-regulated RNAs and their binding sites at nucleotide resolution in intact colorectal cancer (CRC) cells.</description>
     </item>
     
     <item>
       <title>A Small Protein Encoded by a Putative LncRNA Regulates Apoptosis and Tumorigenicity in Human Colorectal Cancer Cells </title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-2/</guid>
       <description>Xiao Ling Li, Lorinc Pongor, Wei Tang, Sudipto Das, Bruna R. Muys, Matthew F. Jones, Sarah B. Lazar, Emily A. Dangelmaier, Corrine C. R. Hartford, Ioannis Grammatikakis, Qinyu Hao, Qinyu Sun, Aaron Schetter, Jennifer L. Martindale, BinWu Tang, Lisa M. Jenkins, Ana I. Robles, Robert L. Walker, Stefan Ambs, Raj Chari, Svetlana A.Shabalina, Myriam Gorospe, Perwez S. Hussain, Curtis C. Harris, Paul S. Meltzer, Kannanganattu V. Prasanth, Mirit I. Aladjem, Thorkell Andresson, and Ashish Lal*</description>
     </item>
     
     <item>
       <title>A Circular RNA From the MDM2 Locus Controls Cell Cycle Progression by Suppressing P53 Levels</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-3/</guid>
       <description>Ritu Chaudhary, Bruna R. Muys, Ioannis Grammatikakis, Supriyo De, Kotb Abdelmohsen, Xiao Ling Li, Yuelin Zhu, Swapna Vidhur Daulatabad, Dimitrios Tsitsipatis, Paul S. Meltzer, Myriam Gorospe, Sarath Chandra Janga, Ashish Lal
-Circular RNAs (circRNAs) are a class of noncoding RNAs produced by a noncanonical form of alternative splicing called back-splicing. To investigate a potential role of circRNAs in the p53 pathway, we analyzed RNA sequencing (RNA-seq) data from colorectal cancer cell lines (HCT116, RKO, and SW48) that were untreated or treated with a DNA-damaging agent.</description>
+ Submitter: Ioannis Grammatikakis (Staff scientist, staff clinician) email: yannis.grammatikakis@nih.gov  Circular RNAs (circRNAs) are a class of noncoding RNAs produced by a noncanonical form of alternative splicing called back-splicing. To investigate a potential role of circRNAs in the p53 pathway, we analyzed RNA sequencing (RNA-seq) data from colorectal cancer cell lines (HCT116, RKO, and SW48) that were untreated or treated with a DNA-damaging agent.</description>
     </item>
     
   </channel>

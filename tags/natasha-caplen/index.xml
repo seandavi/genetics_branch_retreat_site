@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Natasha Caplen on Genetics Branch Retreat</title>
+    <title>Natasha Caplen on Genetics Branch Retreat 2020</title>
     <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/natasha-caplen/</link>
-    <description>Recent content in Natasha Caplen on Genetics Branch Retreat</description>
+    <description>Recent content in Natasha Caplen on Genetics Branch Retreat 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -12,12 +12,44 @@
     
     <item>
       <title>Determination of the Contribution of EWSR1 to the Phenotype of Ewing Sarcoma Cells via a CRISPR-Mediated Tagging Strategy </title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-7/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-11/</guid>
       <description>Soumya Sundara Rajan, Katelyn R. Ludwig, Javed Khan, Raj Chari, Natasha J. Caplen.
-A sub-set of chromosomal rearrangements result in the expression of chimeric proteins that facilitate malignant transformation. Ewing sarcoma (EWS) is one such cancer, where a chromosomal translocation results in the expression of a chimeric protein. This fusion oncoprotein consists of the N-terminus of the RNA-binding protein EWSR1 and the C-terminus of a member of the ETS transcription family, in most cases, FLI1.</description>
+ Submitter: Soumya Rajan (Postdoc or fellow) email: soumya.sundararajan@nih.gov  A sub-set of chromosomal rearrangements result in the expression of chimeric proteins that facilitate malignant transformation. Ewing sarcoma (EWS) is one such cancer, where a chromosomal translocation results in the expression of a chimeric protein. This fusion oncoprotein consists of the N-terminus of the RNA-binding protein EWSR1 and the C-terminus of a member of the ETS transcription family, in most cases, FLI1.</description>
+    </item>
+    
+    <item>
+      <title>The RNA and Protein Determinates Governing the HNRNPH1-Dependent Inclusion or Exclusion of EWSR1 Exon 8</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-12/</guid>
+      <description>Katherine Hall, Tayvia Brownmiller, Tam Vo, Mayank Tandon, Alexei Lobanov, Katelyn Ludwig, Tamara L. Jones, Carla Neckles, Natasha J. Caplen
+ Submitter: Katherine Hall (Student or postbac) email: hallkl@nih.gov  About 85% of Ewing sarcomas (EWS) harbor a translocation that fuses a portion of the EWSR1 gene (promoter through either part of introns 7 or 8) to the 3&amp;rsquo; end of the FLI1 gene (parts of either introns 5 or 6 through exon 9 and the 3&amp;rsquo; untranslated region).</description>
+    </item>
+    
+    <item>
+      <title>Topoisomerase 2-Related DNA Damage and DNA-PK Inhibition as a Rational Drug Combination for the Treatment of Ewing Sarcoma</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-13/</guid>
+      <description>Katelyn R. Ludwig, Victor Collins, Natasha J. Caplen, Christine Heske
+  Submitter: Katelyn Ludwig (Postdoc or fellow)
+  email: katelyn.ludwig@nih.gov
+Ewing sarcoma (EWS) is an aggressive bone and soft tissue malignancy predominantly affecting children and adolescents in the second decade of life. The current first-line chemotherapeutic regimen for treatment of EWS involves cyclical administration of vincristine, doxorubicin, and cyclophosphamide (VDC) alternating with ifosfamide and etoposide (IE). Although outcomes in patients who present with localized disease have improved, long-term outcomes in patients with metastatic, relapsed, or refractory EWS are dismal, with survival rates of less than 20%.</description>
+    </item>
+    
+    <item>
+      <title>EWS-ETS Fusion Oncoproteins Suppress the Expression of Transcriptional Regulators of Cell Lineage or Differentiation</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-14/</guid>
+      <description>Vernon Ebegboni, Tamara L. Jones, Soumya Sundara Rajan, Carla Neckles, Allison Cross, Natasha J. Caplen
+ Submitter: Vernon Justice Ebegboni (Postdoc or fellow) email: vernon.ebegboni@nih.gov  In most solid malignancies, an essential determinant of the plasticity required for metastasis is the genetic heterogeneity of the primary tumor that reflects an increasing mutational burden over time. However, in Ewing sarcoma (EWS), an aggressive bone and soft tissue sarcoma affecting children and young adults, there is a single oncogenic mutation that drives tumor development and must also regulate metastasis.</description>
     </item>
     
   </channel>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Meltzer on Genetics Branch Retreat 2020</title>
+    <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/paul-meltzer/</link>
+    <description>Recent content in Paul Meltzer on Genetics Branch Retreat 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://seandavi.github.io/genetics_branch_retreat_site/tags/paul-meltzer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LRRC15, a Candidate Immunotherapy Target, Regulates Cell-Cell Interaction, Migration and Spheroid Formation in Osteosarcoma Cells</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-18/</guid>
+      <description>Sanjit Mukherjee1, Konrad Huppi1, Robert L. Walker1, Jack Zhu1, Marbin Pineda 1, Fan Yang1, James Purcell2, Lee J. Helman3 and Paul S. Meltzer1 1Genetics Branch, Center for Cancer Research, National Cancer Institute, Bethesda, MD, 2AbbVie Biotherapeutics, Redwood City, CA, 3Children’s Hospital Los Angeles, Los Angeles, CA.
+ Submitter: Sanjit Mukherjee (Postdoc or fellow) email: sanjit.mukherjee@nih.gov  Background: Leucine-rich repeat containing 15 (LRRC15), a transmembrane protein, whose expression can be modulated by TGFβ, has been found to be highly expressed in multiple solid tumors (e.</description>
+    </item>
+    
+    <item>
+      <title>The Expression of Rapidly Degradable ATRX in Osteosarcoma Cells Is a Model System to Observe the Early Molecular Events of ALT Acquisition</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-19/</guid>
+      <description>Nancy S. Lee, Sarah F. Clatterbuck Soper &amp;amp; Paul Meltzer
+ Submitter: Nancy Lee (Student or postbac) email: leenas@nih.gov  The alternative lengthening of telomeres (ALT) is an aberrant telomere maintenance mechanism which occurs in the absence of telomerase. ALT is believed to be a DNA template-based repair mechanism characterized by long telomeres of heterogenous lengths, accumulation of extrachromosomal telomeric repeats (ECTRs), and formation of ALT-associated promyelocytic leukemia (PML) bodies. Loss of function of the ATRX-DAXX histone chaperone complex is strongly associated with the ALT phenotype in osteosarcoma and other cancers of mesenchymal origin.</description>
+    </item>
+    
+    <item>
+      <title>ALT Suppression Requires Localization of ATRX to PML Bodies Downstream of DAXX Binding of Histone H3.3</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-20/</guid>
+      <description>Sarah F. Clatterbuck Soper and Paul S. Meltzer
+ Submitter: Sarah Clatterbuck Soper (Postdoc or fellow) email: sarah.clatterbucksoper@nih.gov  To counteract the end-replication problem, proliferating cells must enact a program of telomere maintenance. In 10-15% of tumors telomeres are lengthened not by telomerase but through a DNA-templated process termed Alternative Lengthening of Telomeres or ALT. ALT is associated with mutations in the ATRX/DAXX/H3.3 histone chaperone complex, which is responsible for deposition of non-replicative histone variant H3.</description>
+    </item>
+    
+  </channel>
+</rss>

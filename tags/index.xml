@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Genetics Branch Retreat</title>
+    <title>Tags on Genetics Branch Retreat 2020</title>
     <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/</link>
-    <description>Recent content in Tags on Genetics Branch Retreat</description>
+    <description>Recent content in Tags on Genetics Branch Retreat 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -25,6 +25,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://seandavi.github.io/genetics_branch_retreat_site/tags/javed-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathy Calzone</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/kathy-calzone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/tags/kathy-calzone/</guid>
       <description></description>
     </item>
     
@@ -56,11 +65,11 @@
     </item>
     
     <item>
-      <title>Other</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/other/</link>
+      <title>Paul Meltzer</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/paul-meltzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/tags/other/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/tags/paul-meltzer/</guid>
       <description></description>
     </item>
     

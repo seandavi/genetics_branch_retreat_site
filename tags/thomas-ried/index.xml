@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thomas Ried on Genetics Branch Retreat</title>
+    <title>Thomas Ried on Genetics Branch Retreat 2020</title>
     <link>https://seandavi.github.io/genetics_branch_retreat_site/tags/thomas-ried/</link>
-    <description>Recent content in Thomas Ried on Genetics Branch Retreat</description>
+    <description>Recent content in Thomas Ried on Genetics Branch Retreat 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -12,12 +12,32 @@
     
     <item>
       <title>Genomic Heterogeneity and Clonal Dynamics of the Evolution of Treatment Resistance and Metastatic Progression in Rectal Cancer</title>
-      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</link>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-4/</guid>
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-24/</guid>
       <description>Daniela Hirsch, Judith Lieberich, Kerstin Heselmeyer-Haddad, Yonca Ceribas, Michael Kelly, Keyur Talsania, Yongmei Zhao, Timo Gaiser, Thomas Ried
-The standard treatment for locally advanced rectal cancer is chemoradiotherapy followed by surgery. However, patient response to pre-operative chemoradiotherapy is highly heterogeneous, ranging from complete tumor regression to no response. Over the course of disease, up to 40% of patients suffer from local relapse or the development of metachronous metastatic disease, compromising survival.</description>
+ Submitter: Daniela Hirsch (Postdoc or fellow) email: daniela.hirsch@nih.gov  The standard treatment for locally advanced rectal cancer is chemoradiotherapy followed by surgery. However, patient response to pre-operative chemoradiotherapy is highly heterogeneous, ranging from complete tumor regression to no response. Over the course of disease, up to 40% of patients suffer from local relapse or the development of metachronous metastatic disease, compromising survival.</description>
+    </item>
+    
+    <item>
+      <title>Modeling Chromosome Instability in High-Grade Serous Ovarian Cancer: Minor Instability Permitted by TP53 Loss Is Exacerbated by BRCA1 Mutation</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-25/</guid>
+      <description>Daniel Bronder, Darawalee Wangsa, Dali Zong, Thomas J. Meyer, Irena Bockaj, René Wardenaar, Paul Minshall, Daniela Hirsch, Kerstin Heselmeyer-Haddad, Anthony Tighe, Louisa Nelson, Diana Spierings, Joanne McGrail, Maggie Cam, André Nussenzweig, Floris Foijer, Thomas Ried, Stephen S. Taylor
+ Submitter: Daniel Bronder (Student or postbac) email: daniel.bronder@nih.gov  High-grade serous ovarian cancer (HGSOC) originates in the fallopian tube and is characterized by ubiquitous TP53 mutations, high levels of chromosome instability (CIN) and resulting aneuploidy.</description>
+    </item>
+    
+    <item>
+      <title>TCF7L2 Silencing Results in a LEF1-Driven Feedback Response</title>
+      <link>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seandavi.github.io/genetics_branch_retreat_site/abstract/submission-26/</guid>
+      <description>Markus Brown, Gabrielle Dotson, Tianzuo Zhan, Juliane Kamlah, Hannah Warshawsky, Indika Rajapakse, Michael Boutros, Thomas Ried
+ Submitter: Markus Brown (Student or postbac) email: markus.brown@nih.gov  The transcription factor, TCF7L2, is the major effector of the WNT signaling pathway in the colon. The expression of TCF7L2 target genes, such as MYC, is required to maintain the stem cell compartment of the large intestine. We investigated the dynamical influence of TCF7L2 silencing on gene expression patterns and nuclear structure in the SW480 colorectal cancer cell line by performing RNA sequencing and Hi-C at multiple time points.</description>
     </item>
     
   </channel>
